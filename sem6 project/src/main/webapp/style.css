@@ -1,0 +1,129 @@
+/*nav-bar start*/
+.bg-custom{
+	background: #9c27b0;
+	height: 100px;
+}
+.navbar .nav-item .nav-link{
+	font-size: 20px;
+	color: white;
+}
+.navbar-custom .nav-item:hover .nav-link{
+	background: white;
+	color: #9c27b0;
+	border-radius: 10px;
+}
+.btn1{
+	font-size: 20px !important;
+	color: #9c27b0 !important;
+}
+/*nav-bar end*/
+
+/*footer start*/
+.footer1{
+	background-color: #9c27b0 !important;
+	height: 50px;
+}
+/*footer end*/
+
+/*register page css start*/
+.div-color{
+	background-image: radial-gradient(circle, #de91e3, #d284e0, #c578dd, #b66cda, #a761d8) !important;
+}
+.prdimg{
+	width: 289px; 
+	height: 268px;
+}
+
+/*about us css start*/
+.about-1 h1{
+	text-align: center;
+	color: #9c27b0;
+	font-weight: bold;
+}
+
+.about-1 p{
+	text-align: center;
+	color: black;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 18px;
+}
+
+.about-item{
+    margin-bottom: 20px;
+    margin-top: 20px;
+    background-color: #e1bee7;
+    padding: 40px 30px;
+    box-shadow: 0 0 9px rgba(0,0,0.6);
+}
+
+.about-item i{
+    font-size: 43px;
+    margin: 0;
+}
+
+.about-item h3{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+.about-item hr{
+    width: 70%;
+    height: 3px;
+    background-color: #9c27b0;
+    margin: 0 auto;
+    border: none;
+    text-align: center;
+}
+
+
+.about-item p{
+	margin-top: 20px;
+}
+
+.about-item:hover{
+    background-color: #f3e5f5;
+}
+
+.about-item:hover i{
+    transform: translateY(-15px);
+}
+
+.about-item i,
+.about-item h3,
+.about-item p{
+    color: black;
+}
+/*about us css end*/
+
+/*contact us css start*/
+.about-1 h2{
+	text-align: center;
+	color: #9c27b0;
+	font-weight: bold;
+}
+
+.about-item1 hr{
+    width: 70%;
+    height: 3px;
+    background-color: #9c27b0;
+    margin: 0 auto;
+    border: none;
+    text-align: center;
+}
+
+.about-item1 i,
+.about-item1 h5{
+    color: black;
+}
+
+.about-item1 p{
+	position: relative;
+	top: 5px;
+    color: #9c27b0;
+}
+.about-item1 i{
+    font-size: 30px;
+    margin: 0;
+}
+/*about us css end*/
